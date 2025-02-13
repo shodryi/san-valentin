@@ -26,29 +26,29 @@ function App() {
       image: "/character/one.gif",
     },
     {
-      content: `Recientemente hemos vuelto a hablar y me alegro mucho por eso ;D
+      content: `Recientemente volvimos a hablar y me alegro mucho por eso, enserio te extrañé ;D
       `,
       image: "/character/two.gif",
     },
     {
-      content: `Espero que podamos seguir hablando por mucho más tiempo, Ly.
+      content: `Espero que podamos seguir hablando por mucho más tiempo y que nada nos separe otra vez.
       `,
       image: "/character/three.gif",
     },
     {
-      content: `Lo siento mucho por haberte hecho sentir mal, es algo que no volvera a ocurrir nunca mas.`,
+      content: `Lo siento mucho por haberte hecho sentir mal el año pasado, espero me perdones :c`,
       image: "/character/four.gif",
     },
     {
-      content: `No quiero que vuelvas a enojarte conmigo, ia no voy a regarla u.u`,
+      content: `No quiero que vuelvas a enojarte conmigo, ia no quiero a regarla más u.u`,
       image: "/character/five.gif",
     },
     {
-      content: "Siempre wa a estar aca para vos Boni, espero me tengas siempre presente, asi como io te tengo presente a ti.",
+      content: "Con eso dicho, wa a seguir estando aca para lo q sea boni, espero me tengas siempre presente, asi como io te tengo presente a ti.",
       image: "/character/six.gif",
     },
     {
-      content: "Te kiero mucho Ly, gracias por estar siempre ahi TwT",
+      content: "Te kiero mucho Ly, gracias por seguir estando ahí TwT",
       image: "/character/seven.gif",
     },
   ];
@@ -85,6 +85,9 @@ function App() {
               className="text-white text-4xl font-bold"
             >
               ¡Feliz San Valentín Lyyy!
+
+              XOXO, Rodry ♡
+
             </motion.h1>
             <img
               src="/character/yayyyy.gif"
