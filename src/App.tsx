@@ -87,7 +87,7 @@ function App() {
               ¡Feliz San Valentín Lyyy!
             </motion.h1>
             <img
-              src="/character/yayyyy.gifa"
+              src="/character/yayyyy.gif"
               alt=""
               className="w-40 animate-bounce"
             />
