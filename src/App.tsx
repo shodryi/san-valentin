@@ -59,7 +59,7 @@ function App() {
   useEffect(() => {
     const imagePaths = [
       ...steps.map((step) => step.image),
-      "/character/yayyyy.png",
+      "/character/yayyyy.gif",
     ];
 
     imagePaths.forEach((path) => {
@@ -87,7 +87,7 @@ function App() {
               ¡Feliz San Valentín Lyyy!
             </motion.h1>
             <img
-              src="/character/yayyyy.gifasd"
+              src="/character/yayyyy.gifa"
               alt=""
               className="w-40 animate-bounce"
             />
