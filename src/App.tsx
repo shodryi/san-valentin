@@ -40,7 +40,7 @@ function App() {
       image: "/character/four.gif",
     },
     {
-      content: `No quiero que vuelvas a enojarte conmigo, ia no quiero a regarla más u.u`,
+      content: `No quiero que vuelvas a enojarte conmigo, ia no quiero regarla más u.u`,
       image: "/character/five.gif",
     },
     {
