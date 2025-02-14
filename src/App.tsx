@@ -85,7 +85,7 @@ function App() {
               className="text-white text-4xl font-bold"
             >
               ¡Feliz San Valentín Lyyy! <br />
-  <span className="ml-27">XOXO, Rodry ♡</span>
+  <span className="ml-25">XOXO, Rodry ♡</span>
 
             </motion.h1>
             <img
