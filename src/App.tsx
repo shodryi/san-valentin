@@ -84,7 +84,8 @@ function App() {
               transition={{ delay: 0.3, type: "spring" }}
               className="text-white text-4xl font-bold"
             >
-              ¡Feliz San Valentín Lyyy! <br></br>    XOXO, Rodry ♡
+              ¡Feliz San Valentín Lyyy! <br />
+  <span className="ml-4">XOXO, Rodry ♡</span>
 
             </motion.h1>
             <img
