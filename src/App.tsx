@@ -49,7 +49,7 @@ function App() {
     },
     {
       content: "Te kiero mucho Ly, gracias por seguir estando ahí TwT",
-      image: "/character/seven.gif",
+      image: "/character/yayyyy.gif",
     },
   ];
   const [currentStep, setCurrentStep] = useState(0);
@@ -59,7 +59,7 @@ function App() {
   useEffect(() => {
     const imagePaths = [
       ...steps.map((step) => step.image),
-      "/character/yayyyy.gif",
+      "/character/seven.gif",
     ];
 
     imagePaths.forEach((path) => {
@@ -84,13 +84,11 @@ function App() {
               transition={{ delay: 0.3, type: "spring" }}
               className="text-white text-4xl font-bold"
             >
-              ¡Feliz San Valentín Lyyy!
-
-              XOXO, Rodry ♡
+              ¡Feliz San Valentín Lyyy! <br></br> XOXO, Rodry ♡
 
             </motion.h1>
             <img
-              src="/character/yayyyy.gif"
+              src="/character/seven.gif"
               alt=""
               className="w-40 animate-bounce"
             />
